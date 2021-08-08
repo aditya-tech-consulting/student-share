@@ -1,0 +1,11 @@
+1. The Driver - class - jar must be in the classpath
+
+2. Connection - database-url - database-name- user-password
+
+3. Create an SQL statement to execcute
+   a. Statement - pure sql statement
+   b. PreparedStatement - sql statement which takes argument
+  c. CallableStatement - make calls to Stored Procedures and Functions
+
+4. Execute the statement and receive the response
+5. Close the connection
