@@ -1,0 +1,10 @@
+1. Get All the list of of Managers
+2. Print all Employees along with their managers
+3. Print all departments along with their managers
+4. Print all the employees who are the highest paid in their departments
+5. Print all employees in reverse order of Date of Join
+6. Give head count for all departments in ascending order
+7. Print all employees whose name starts with 'G'
+8. Print all employees whose name ends with 'a'
+9. Print the count of different roles in descending order [Titles Table]
+10. Print top 3 paid employees in each department
