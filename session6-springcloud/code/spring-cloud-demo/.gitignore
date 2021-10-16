@@ -3,3 +3,10 @@
 
 # Ignore Gradle build output directory
 build
+
+.idea
+
+booking-service/build
+config-server/gradle
+seating-server/build
+service-discovery/build
