@@ -1,0 +1,4 @@
+rootProject.name = 'lambda-app'
+include 'sqs'
+include 'dynamodb'
+
